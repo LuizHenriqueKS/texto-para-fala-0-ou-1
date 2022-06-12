@@ -1,0 +1,1 @@
+# texto-para-fala-0-ou-1
